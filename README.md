@@ -1,2 +1,2 @@
-# futurehealthcare
-Disease Prediction 
+# Future Healthcare 
+## Disease Prediction 
